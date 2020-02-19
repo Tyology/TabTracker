@@ -1,2 +1,0 @@
-# TabTracker
-Created with CodeSandbox
